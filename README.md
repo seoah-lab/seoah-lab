@@ -1,5 +1,5 @@
-Hi 
-
+안녕하세요. 개발자 양현진입니다.
+<!-- 
 Main Stack
 <p>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -11,4 +11,4 @@ Interest Stack
 <p>
   <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>  
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+</p> -->
